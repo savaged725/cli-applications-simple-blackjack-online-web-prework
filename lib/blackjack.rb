@@ -1,9 +1,9 @@
 def welcome
-  # code #welcome here
+  puts "hi!"
 end
 
 def deal_card
-  # code #deal_card here
+  puts "Hit me!"
 end
 
 def display_card_total
